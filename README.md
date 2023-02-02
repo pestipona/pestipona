@@ -9,7 +9,7 @@ I've been an IT professional for over 7 years. I started out in Cybersecurity as
 I've been working as a software developer for 5 years. I started with C++ as a backend developer then moved on to writing code in Java and Python. I've developed a couple of games on Java, as well as some front-end applications using Python. This year I started to learn more about frontend programming using JavaScript and React. I also designed a couple of web pages using HTML & CSS. I'm planning to focus more on frontend development, but my goal is to be a full-stack developer.
 
 * 🌍  I'm based in Maryland
-* 🖥️  See my portfolio at [https://pestipona.github.io/](http://www.linkedin.com/in/paulestipona)
+* 🖥️  See my portfolio at [https://pestipona.github.io/](https://pestipona.github.io/)
 * ✉️  You can contact me at [paul\_estipona@yahoo.com](mailto:paul_estipona@yahoo.com)
 * 🚀  I'm currently working on [An Android App](http://github.com/pestipona/Android-Kids-Drawing-App)
 * 🧠  I'm learning Node JS
