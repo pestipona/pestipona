@@ -58,17 +58,6 @@ src="https://img.shields.io/twitter/follow/estipona_paul?logo=twitter&style=for-
 
 <a href="https://github.com/pestipona" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pestipona&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/pestipona/DNA-Protein-Sequencing-and-Analysis" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pestipona&repo=DNA-Protein-Sequencing-and-Analysis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/pestipona/Real-Time-Bus-Tracking" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pestipona&repo=Real-Time-Bus-Tracking&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center">
-<a href="https://github.com/pestipona/Android-Kids-Drawing-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pestipona&repo=Android-Kids-Drawing-App&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-<a href="https://github.com/pestipona/Boston-Salary-Data" align="right">
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pestipona&repo=Boston-Salary-Data&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-</a>
-</div>
-
 <b></b>
 <div>
   <a href="https://www.buymeacoffee.com/paulestipona"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
