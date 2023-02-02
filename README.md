@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/pestipona?logo=github&style=for-the
 src="https://img.shields.io/twitter/follow/estipona_paul?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-### Skills
+### Skills:
 
 
 <p align="left">
@@ -42,11 +42,11 @@ src="https://img.shields.io/twitter/follow/estipona_paul?logo=twitter&style=for-
 </p>
 
 
-### Socials
+### Socials:
 
 <p align="left"> <a href="https://www.github.com/pestipona" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/paulestipona" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/paul17C" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/estipona_paul" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
+### Badges:
 
 <b>My GitHub Stats</b>
 
@@ -58,7 +58,8 @@ src="https://img.shields.io/twitter/follow/estipona_paul?logo=twitter&style=for-
 
 <a href="https://github.com/pestipona" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pestipona&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b></b>
+<b>Support Me:</b>
+
 <div>
   <a href="https://www.buymeacoffee.com/paulestipona"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 </div>
