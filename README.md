@@ -6,7 +6,7 @@ Full Stack Developer
 
 I've been an IT professional for over 7 years. I started out in Cybersecurity as a pen tester and incident response officer for the Department of Defense (DoD). After working for 2 years in the cybersecurity field I transitioned over to Systems Engineering, and then Software Development.
 
-I've been working as a software developer for 5 years. I started with C++ as a backend developer then moved on to writing code in Java and Python. I've developed a couple of games on Java, as well as some front-end applications using Python. This year I started to learn more about frontend programming using JavaScript and React. I also designed a couple of web pages using HTML & CSS. I'm planning to focus more on frontend development, but my goal is to be a full-stack developer.
+I've been working as a software developer for 5 years. I started with C++ as a backend developer then moved on to writing code in Java and Python. I've developed a couple of 2D games on Java, as well as some front-end applications using Python. This year I started to learn more about frontend programming using JavaScript and React. I also designed a couple of web pages using HTML & CSS. I'm planning to focus more on frontend development, but my goal is to be a full-stack developer.
 
 * 🌍  I'm based in Maryland
 * 🖥️  See my portfolio at [https://pestipona.github.io/](https://pestipona.github.io/)
