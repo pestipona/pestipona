@@ -104,7 +104,7 @@ I've been an IT professional for over 7 years. I started out in Cybersecurity as
   </a>
 </div>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/pestipona/pestipona/blob/master/devcard.svg" width="400" alt="Paul's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/pestipona/pestipona/blob/main/devcard.svg" width="400" alt="Paul's Dev Card"/></a>
 
 ### Support Me
 
